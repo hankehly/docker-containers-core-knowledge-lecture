@@ -9,6 +9,8 @@ Demonstration code for [lecture on docker containers](https://enechange-meetup.c
 5. コンテナをレジストリーにpushする
 
 ### リンク集
+* [Dockerをインストールする](https://docs.docker.com/get-docker/)
+* [Dockerhubアカウント作成](https://hub.docker.com/signup)
 * [Dockerhub - Python](https://hub.docker.com/_/python)
 * [Dockerhub - Node.js](https://hub.docker.com/_/node)
 * [Dockerhub - PHP](https://hub.docker.com/_/php)
