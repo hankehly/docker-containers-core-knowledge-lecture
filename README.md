@@ -18,3 +18,6 @@ Demonstration code for [lecture on docker containers](https://enechange-meetup.c
 * [Dockerhub - Ruby](https://hub.docker.com/_/ruby)
 * [Dockerfileの書き方（日本語）](https://docs.docker.jp/engine/reference/builder.html)
 * [Dockerfileの書き方（英語）](https://docs.docker.com/engine/reference/builder/)
+* [docker buildコマンド](https://docs.docker.com/engine/reference/commandline/build/)
+* [docker runコマンド](https://docs.docker.com/engine/reference/run/)
+* [docker pushコマンド](https://docs.docker.com/engine/reference/commandline/push/)
