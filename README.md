@@ -1,4 +1,4 @@
-# docker-containers-core-knowledge-lecture
+# docker-core-knowledge-workshop
 Demonstration code for [docker core knowledge workshop](https://enechange-meetup.connpass.com/event/271139/).
 
 ### コンテナ開発の流れ
