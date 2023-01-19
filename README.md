@@ -8,7 +8,7 @@ Demonstration code for [docker core knowledge workshop](https://enechange-meetup
 console.log("Hello World");
 ```
 
-3. Dockerfileを作成する
+2. Dockerfileを作成する
 
 ```dockerfile
 FROM node:19.4.0
@@ -17,7 +17,7 @@ COPY scripts/hello_world.js .
 CMD node hello_world.js
 ```
 
-4. コンテナイメージをビルドする
+3. コンテナイメージをビルドする
 
 ```shell
 docker build -t {イメージ名} .
