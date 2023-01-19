@@ -35,9 +35,17 @@ docker run --rm {イメージ名}
 docker push {イメージ名}
 ```
 
+### Tag
+
+* イメージ名はスラッシュ（`/`)区切りの文字列で、形式が自由（h/e/l/l/oでも可能）
+* イメージ名の頭にレジストリのホスト名を付けることで、リモートレジストリと関連づける (例: my-registry.jp)
+* レジストリのホスト名はデフォルトでDockerHubになる（docker.io）
+* レジストリによって、イメージ名の書き方のルールがある
+
 ### リンク集
 * [Dockerをインストールする](https://docs.docker.com/get-docker/)
 * [Dockerhubアカウント作成](https://hub.docker.com/signup)
+* [有名なコンテナレジストリの認証コマンドとイメージ名規則](https://qiita.com/hankehly/items/662460dcae3b9689e371)
 * [Dockerhub - Python](https://hub.docker.com/_/python)
 * [Dockerhub - Node.js](https://hub.docker.com/_/node)
 * [Dockerhub - PHP](https://hub.docker.com/_/php)
